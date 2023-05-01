@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    
   }
 
 section{  
@@ -23,26 +23,27 @@ div{
 h1{
     background-color: rgb(220, 220, 220);
     width: 500px;
+    left: 50px;
     text-align: center;
     position: relative;
     top: 5px;
-    left: 50px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 img{
     position: relative;
     top: 10px;
-    left: 50px;
-    height: 500px;
     width: 500px;
+    height: 500px;
+    left: 50px;
+    
+   
 }
 
 p{
     width: 400px;
     height: 500px;
     font-size: 20px;
-    font-weight: 300;
     text-align: justify;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     position: relative;
